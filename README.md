@@ -23,6 +23,15 @@ Real-time order creation and payment processing
 
 Cashier management module to assign roles, track activity, and manage permissions
 
+🔔 Notifications & Tracking
+
+Receive notifications for new orders, updates, and promotions
+
+Track drivers and monitor order progress from kitchen to client delivery
+
+
+Real-time updates ensure timely delivery and improved operational efficiency
+
 👥 Employee & Staff Management
 
 Staff registration and role assignment (admin, manager, cashier, etc.)
